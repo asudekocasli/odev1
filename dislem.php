@@ -2,7 +2,7 @@
 <html>
 <head>
 
-    <title>Dört işlemi</title>
+    <title>Dört işlem</title>
     <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <style type="text/css">
@@ -37,7 +37,7 @@ input {
 
 button {
     float: right;
-    background: #555;
+    background: #232;
     padding: 10px 15px;
     color: #fff;
     border-radius: 60px;
@@ -66,7 +66,7 @@ body{
 }
 h3 {
     text-align: center;
-    margin-bottom: 40px;
+    margin-bottom: 30px;
     color: #000000;
 }
 
